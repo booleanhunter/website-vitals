@@ -1,0 +1,14 @@
+{
+  "name": "metric-monitor",
+  "version": "0.0.1",
+  "description": "booleanhunter's Lighthouse Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@lhci/cli": "^0.13.0",
+    "@lhci/server": "^0.13.0",
+    "sqlite3": "^5.1.7"
+  }
+}
